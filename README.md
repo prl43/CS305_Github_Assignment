@@ -13,7 +13,8 @@ Parts to work on would be the
 - Environment
 - Model’s algorithm
 - Pruning of algorithm selection
-- etc, get creative
+
+The code should also be cool.
 
 
 
